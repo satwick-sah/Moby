@@ -1,0 +1,8 @@
+<ul>
+      <li>Home</li>
+      <li>About Us</li>
+      <li>Features</li>
+      <li>Trending Names</li>
+      <li>NewsLetter</li>
+      <li>Teams</li>
+    </ul>
